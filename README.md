@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @goalfis
 - 👀 I’m interested in gaining industry web decvelopment experience.
 - 🌱 I’m currently learning HTML5, CSS. Javascript, Bootstrap 3 and 4, and phython.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 
 <!---
 goalfis/goalfis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
