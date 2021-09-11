@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goalfis
 - 👀 I’m interested in finding a career in web development.
-- 🌱 I’m currently learning HTML5, CSS. Javascript, Bootstrap 4, and phython.
+- 🌱 I’m currently learning HTML, CSS. Javascript, Bootstrap 4, and Python.
 - 📫 Contact: 3parkpigeons@gmail.com
 
 <!---
